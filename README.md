@@ -24,8 +24,11 @@ Visit the live app here:
 
 <p align="center">
   <img src="screenshots/image1.png" alt="Screenshot 1" width="200"/>
+  <br>
   <img src="screenshots/image2.png" alt="Screenshot 2" width="200"/>
+  <br>
   <img src="screenshots/image3.png" alt="Screenshot 3" width="200"/>
+  <br>
   <img src="screenshots/image4.png" alt="Screenshot 4" width="200"/>
 </p>
 
