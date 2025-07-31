@@ -20,10 +20,15 @@ Visit the live app here:
 
 ## 🖼️ App Screenshots
 
-![App Preview](screenshots/image1.png)  
-![App Preview](screenshots/image2.png)  
-![App Preview](screenshots/image3.png)  
-![App Preview](screenshots/image4.png)  
+## 🖼️ App Screenshots
+
+<p align="center">
+  <img src="screenshots/image1.png" alt="Screenshot 1" width="200"/>
+  <img src="screenshots/image2.png" alt="Screenshot 2" width="200"/>
+  <img src="screenshots/image3.png" alt="Screenshot 3" width="200"/>
+  <img src="screenshots/image4.png" alt="Screenshot 4" width="200"/>
+</p>
+
 
 ## 🚀 Tech Stack
 
