@@ -5,9 +5,10 @@
 > 🗣️ **Note:** The app is fully designed and developed in **Arabic** to suit Arabic-speaking users.
 
 ## 🔗 Live Website
+[https://cactus-shop-ps.netlify.app](https://cactus-shop-ps.netlify.app)
 
-Visit the live app here:  
-👉 [https://cactus-shop-ps.netlify.app/#/](https://cactus-shop-ps.netlify.app/#/)
+> 📱 For the web version, visit the main repository:   
+> [Cactus Shop Flutter Project Web](https://github.com/MariaGhanem/Cactus_Shop-FlutterProject-web-) 
 
 ## 🛍️ About the Project
 
