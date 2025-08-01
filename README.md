@@ -21,8 +21,6 @@
 
 ## 🖼️ App Screenshots
 
-## 🖼️ App Screenshots
-
 <p align="center">
   <img src="screenshots/image1.png" alt="Screenshot 1" width="200"/>
   <br>
