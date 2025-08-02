@@ -8,7 +8,13 @@
 [https://cactus-shop-ps.netlify.app](https://cactus-shop-ps.netlify.app)
 
 > 📱 For the web version, visit the main repository:   
-> [Cactus Shop Flutter Project Web](https://github.com/MariaGhanem/Cactus_Shop-FlutterProject-web-) 
+> [Cactus Shop Flutter Project Web](https://github.com/MariaGhanem/Cactus_Shop-FlutterProject-web-)
+
+
+## 📥 Android APK Download  
+> 📱 If you'd like to install the app on your Android device, download the APK file from the link below:  
+👉 [Download Cactus Shop APK](https://drive.google.com/file/d/1AdwGPqRgWbCjfZYhLTi4mUEgTqk5ieSI/view?usp=sharing)
+
 
 ## 🛍️ About the Project
 
@@ -50,3 +56,4 @@ git clone https://github.com/MariaGhanem/Cactus_Shop-FlutterProject.git
 cd Cactus_Shop-FlutterProject
 flutter pub get
 flutter run
+
